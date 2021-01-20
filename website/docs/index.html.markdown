@@ -124,3 +124,4 @@ The `kubernetes` block supports:
   * `command` - (Required) Command to execute.
   * `args` - (Optional) List of arguments to pass when executing the plugin.
   * `env` - (Optional) Map of environment variables to set when executing the plugin.
+* `proxy_url` - (Optional) URL of the proxy to use for calls.
